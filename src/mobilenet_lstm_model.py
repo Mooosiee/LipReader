@@ -1,6 +1,6 @@
 # ==========================================
 # STEP 1: NEW MODEL ARCHITECTURE
-# File: mobilenet_lstm_model.py
+# File: mobilenet_lstm_model.py : python
 # ==========================================
 
 import tensorflow as tf
